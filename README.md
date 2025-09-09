@@ -22,7 +22,7 @@ Try it on the [interactive playground](https://Kheopskit-alpha.pages.dev/)
 Install the required packages using `pnpm`:
 
 ```bash
-pnpm install @Kheopskit/core @Kheopskit/react
+pnpm install @kheopskit/core @kheopskit/react
 ```
 
 ---
